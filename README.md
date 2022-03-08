@@ -1,7 +1,5 @@
 ###                                                       Hi 👋, I'm Firat
 
-**thefiratyildirim/thefiratyildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - Solid understanding of Agile and Traditional development life-cycles
 - Strong skills on Analysis, Problem Solving and Testing
