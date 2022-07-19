@@ -12,6 +12,7 @@ I have 5 years experience in E-Commerce Sector and Program Management. I'm highl
 *   🧠  I'm learning Data Engineering
 *   🤝  I'm open to collaborating on Open Source Projects
 *   ⚡  I’m addicted to learning and growing every day.⚡ I love Lego, programming, data science, and books
+*       For more information please visit ; https://firatyildirim.w3spaces.com/
 
 ### Skills
 <p align="left">
