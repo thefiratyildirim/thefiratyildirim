@@ -8,7 +8,7 @@ I have 5 years experience in E-Commerce Sector and Program Management. I'm highl
 
 *   🌍  I'm based in Luxembourg
 *   ✉️  You can contact me at [thefiratyildirim@yandex.com](mailto:thefiratyildirim@yandex.com)
-*   🚀  I'm currently working on [Amazon](http://amazon.de)
+*   🚀  I'm currently working on [Luxair ](https://www.luxair.lu/en)
 *   🧠  I'm learning Data Engineering
 *   🤝  I'm open to collaborating on Open Source Projects
 *   ⚡  I’m addicted to learning and growing every day.⚡ I love Lego, programming, data science, and books
