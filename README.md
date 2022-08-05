@@ -1,7 +1,7 @@
 Hi 👋 My name is Firat Yildirim
 ===============================
 
-Program Manager
+Program Manager / Business Analyst
 ---------------
 
 I have 5 years experience in E-Commerce Sector and Program Management. I'm highly involved with Technology & Transformation. I have solid understanding of Agile and Traditional development life-cycles. I have strong skills on Analysis, Problem Solving and Testing
