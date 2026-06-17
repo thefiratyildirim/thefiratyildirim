@@ -4,7 +4,7 @@ Hi 👋 My name is Firat Yildirim
 Program Manager / Business Analyst
 ---------------
 
-I have 5 years experience in E-Commerce Sector and Program Management. I'm highly involved with Technology & Transformation. I have solid understanding of Agile and Traditional development life-cycles. I have strong skills on Analysis, Problem Solving and Testing
+I have 8 years experience in E-Commerce Sector and Program Management. I'm highly involved with Technology & Transformation. I have solid understanding of Agile and Traditional development life-cycles. I have strong skills on Analysis, Problem Solving and Testing
 
 *   🌍  I'm based in Luxembourg
 *   ✉️  You can contact me at [thefiratyildirim@yandex.com](mailto:thefiratyildirim@yandex.com)
